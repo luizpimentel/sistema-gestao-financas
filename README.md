@@ -37,7 +37,7 @@ O projeto possui uma base sólida e escalável. Algumas ideias para versões fut
 ## 💻 Como rodar o projeto localmente
 
 1. Clone este repositório:
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/luizpimentel/sistema-gestao-financas
 
 2.  Acesse a pasta do projeto:
     cd SEU_REPOSITORIO
