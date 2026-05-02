@@ -27,7 +27,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos fundamentais 
 - Imutabilidade na manipulação de Arrays e Objetos.
 - Renderização condicional e métodos de array (`map`, `filter`, `reduce`) para cálculos matemáticos precisos de saldo.
 
-## 📈 Próximos Passos (Futuras Implementações)
+## 📈 Futuras Implementações
 
 O projeto possui uma base sólida e escalável. Algumas ideias para versões futuras incluem:
 - [ ] Implementar gráficos visuais de gastos mensais.
