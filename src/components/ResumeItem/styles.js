@@ -7,17 +7,20 @@ export const Container = styled.div`
     background-color: white;
     border-radius: 5px;
     padding: 5px 15px;
-    width: 30%;
+    width: 25%;
+    
 
-    @media (max-width: 750px) {
-        width: 20%;
+    @media (max-width: 768px) {
+        width: 25%;
+        
 
         p {
-            font-size: 12px;
+            font-size: 15px;
+            margin-bottom: 5px;
         }
 
         span {
-            font-size: 10px;
+            font-size: 12px;
         }
         
         svg {
