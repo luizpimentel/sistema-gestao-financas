@@ -14,10 +14,10 @@ const Grid = ( { itens, setItens}) => {
         <S.Table>
             <S.Thead>
                 <S.Tr>
-                    <S.Th width={40}>Descrição</S.Th>
-                    <S.Th width={40}>Valor</S.Th>
-                    <S.Th width={10} alignCenter>Tipo</S.Th>
-                    <S.Th width={10}></S.Th>
+                    <S.Th $width={40}>Descrição</S.Th>
+                    <S.Th $width={40}>Valor</S.Th>
+                    <S.Th $width={10} $alignCenter>Tipo</S.Th>
+                    <S.Th $width={10}></S.Th>
                 </S.Tr>
             </S.Thead>
 
